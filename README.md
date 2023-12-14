@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkondrakunta
 - 👀 I’m exploring my interests in software development and Internet of Things domains
-- ✨ I was working with Lake Homes Realty on their backend team (MariaDB).
-- 🔭 Now I am looking for software roles in the IoT and startup space.
+- ✨ I have worked in drone startups before and most recently I interned at Lake Homes Realty on their backend team (MariaDB).
+- 🔭 Now I am looking for software roles in the drone, IoT and startup space.
 - 🌱 Currently, I am learning the MVC Architecture using Spring, Tomcat and Hibernate.
 - ▶️ Here's my [portfolio](https://pkon-portfolio.web.app/) (not optimized for mobiles/tablets yet🥲)
 
