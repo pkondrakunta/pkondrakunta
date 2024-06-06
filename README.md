@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pkondrakunta
 - 👀 I’m exploring my interests in software development and Internet of Things domains
-- ✨ I have worked in drone startups before and most recently I interned at Lake Homes Realty on their backend team (MariaDB).
+- ✨ I have worked in drone startups before and I am working at Lake Homes Realty on their backend team (MariaDB).
 - 🔭 Now I am looking for software and devops roles in the drone, IoT and startup space.
-- 🌱 Currently, I am learning the Kubernetes, Terraform and Ansible.
 - ▶️ Here's my [portfolio](https://pkon-portfolio.web.app/) (not optimized for mobiles/tablets yet🥲)
 
 <!---
